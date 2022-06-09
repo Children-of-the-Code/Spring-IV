@@ -10,4 +10,7 @@ public class PaintingController {
     public PaintingController(){
 
     }
+    public void SomeMethod(){
+//        some method
+    }
 }
