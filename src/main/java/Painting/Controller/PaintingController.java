@@ -10,7 +10,8 @@ public class PaintingController {
     public PaintingController(){
 
     }
-    public void SomeMethod(){
+    public String SomeMethod(){
 //        some method
+        return "String";
     }
 }
