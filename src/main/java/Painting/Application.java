@@ -8,7 +8,7 @@ public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class);
         /*
-        This is teds evil twin!
+        This is Ted's change!
          */
     }
 }
