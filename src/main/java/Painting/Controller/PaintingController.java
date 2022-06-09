@@ -1,7 +1,13 @@
 package Painting.Controller;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class PaintingController {
     /*
-    Ted will make changes here
+    Changes are happening
      */
+    public PaintingController(){
+
+    }
 }
