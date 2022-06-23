@@ -1,6 +1,7 @@
 package Painting.Aspect;
 
 import org.aspectj.lang.JoinPoint;
+import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.hibernate.mapping.Join;
@@ -34,6 +35,7 @@ public class ArtistAspect {
     public void PrintBeforeArtistServiceMethod(JoinPoint joinPoint){
 //        I want to print out the methods that I am calling in artistService
         System.out.println("ARTISTSERVICE JOINPOINT: "+joinPoint.getSignature());
+//        BEFORE the execution of an artistService method, ATTACH this code to (the joinpoint)
     }
     /*
     anatomy:
@@ -61,6 +63,10 @@ public class ArtistAspect {
     @Before("execution(* getAll*(..))")
     public void printAllGetAllMethods(JoinPoint joinPoint){
         System.out.println("GET JOINPOINT: "+joinPoint.getSignature());
+    }
+    @After("execution(* something(..))")
+    public void printBeforeSomethingMethods(JoinPoint joinPoint){
+        System.out.println("after something");
     }
     /*
     AOP: realistically, just for logging/debugging for now

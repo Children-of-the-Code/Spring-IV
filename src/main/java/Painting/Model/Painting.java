@@ -23,7 +23,11 @@ public class Painting {
     private String description;
     @Column
     private int year;
+    @Column
+    private String url;
+
     @ManyToOne
     @JoinColumn(name = "artist")
     Artist artist;
+
 }

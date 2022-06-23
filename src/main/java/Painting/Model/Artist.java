@@ -21,7 +21,9 @@ public class Artist {
     private int artist_ID;
     @Column(unique = true)
     private String name;
+
     @OneToMany(mappedBy = "artist")
     @JsonIgnoreProperties(value = {"artist"})
     List<Painting> paintings;
+
 }

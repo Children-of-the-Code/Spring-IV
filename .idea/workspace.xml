@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="174ef4e1-549d-4c0d-ac2a-789a9f5cf61c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Painting/Util/ExtraClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Aspect/ArtistAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Aspect/ArtistAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Controller/PaintingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Controller/PaintingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/DAO/PaintingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/DAO/PaintingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Model/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Model/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Model/Painting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Model/Painting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Service/PaintingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Service/PaintingService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AOA4EZj8YhUtzurAvIWf6Cwggf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="174ef4e1-549d-4c0d-ac2a-789a9f5cf61c" name="Changes" comment="" />
+      <created>1654870067797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654870067797</updated>
+      <workItem from="1654870072064" duration="26000" />
+      <workItem from="1654873907208" duration="2250000" />
+      <workItem from="1655131770573" duration="23000" />
+      <workItem from="1655131923973" duration="1800000" />
+      <workItem from="1655217956299" duration="631000" />
+      <workItem from="1655302730741" duration="604000" />
+      <workItem from="1655310824694" duration="595000" />
+      <workItem from="1655825047048" duration="26000" />
+      <workItem from="1655906829267" duration="2872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
