@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="174ef4e1-549d-4c0d-ac2a-789a9f5cf61c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Controller/ArtistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Controller/ArtistController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Controller/PaintingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Controller/PaintingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Aspect/ArtistAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Aspect/ArtistAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Controller/ArtistController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Controller/ArtistController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Controller/PaintingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Controller/PaintingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Painting/DAO/PaintingRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/DAO/PaintingRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Model/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Model/Artist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Model/Painting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Model/Painting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Service/PaintingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Service/PaintingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +85,7 @@
       <workItem from="1655302730741" duration="604000" />
       <workItem from="1655310824694" duration="595000" />
       <workItem from="1655825047048" duration="26000" />
-      <workItem from="1655906829267" duration="3690000" />
+      <workItem from="1655906829267" duration="4040000" />
     </task>
     <servers />
   </component>
