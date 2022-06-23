@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="174ef4e1-549d-4c0d-ac2a-789a9f5cf61c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Painting/Util/ExtraClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Aspect/ArtistAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Aspect/ArtistAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Controller/ArtistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Controller/ArtistController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Controller/PaintingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Controller/PaintingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/DAO/PaintingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/DAO/PaintingRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Model/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Model/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Model/Painting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Model/Painting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Painting/Service/PaintingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Painting/Service/PaintingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Aspect/ArtistAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Aspect/ArtistAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Controller/ArtistController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Controller/ArtistController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Controller/PaintingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Controller/PaintingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Painting/DAO/PaintingRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/DAO/PaintingRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Model/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Model/Artist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Model/Painting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Model/Painting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Painting/Service/PaintingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Painting/Service/PaintingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +38,49 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2AOA4EZj8YhUtzurAvIWf6Cwggf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Spring3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Painting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Painting.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,7 +98,7 @@
       <workItem from="1655302730741" duration="604000" />
       <workItem from="1655310824694" duration="595000" />
       <workItem from="1655825047048" duration="26000" />
-      <workItem from="1655906829267" duration="2872000" />
+      <workItem from="1655906829267" duration="3690000" />
     </task>
     <servers />
   </component>

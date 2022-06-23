@@ -19,11 +19,11 @@ public class PaintingController {
     public PaintingController(PaintingService paintingService){
         this.paintingService = paintingService;
     }
-    @GetMapping({"id"})
+    @GetMapping({"{id}"})
     public List<Painting> getAllPaintingsByArtistId(@PathVariable int id){
         return paintingService.getAllPaintingsByArtistId(id);
     }
-    @PostMapping({"name"})
+    @PostMapping({"{name}"})
     public void savePaintingToArtistName(@PathVariable String name, @RequestBody Painting p){
         paintingService.savePaintingToArtistName(name, p);
     }
